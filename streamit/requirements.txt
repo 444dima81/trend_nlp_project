@@ -1,0 +1,13 @@
+streamlit==1.39.0
+pandas
+numpy
+altair
+matplotlib
+wordcloud
+pillow
+python-dotenv
+qdrant-client==1.9.2
+sentence-transformers==2.7.0
+torch==2.3.1 --index-url https://download.pytorch.org/whl/cpu
+xlsxwriter==3.2.9
+openai==2.6.1
